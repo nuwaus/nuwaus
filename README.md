@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nuwaus
+- 👋 Hi, I’m Nuwan
 - 👀 I’m interested in Coding & Traveling
 - 🌱 I’m currently learning Unity & Unreal Engine 5
 - 📫 How to reach me | nuwaus@gmail.com is my email!
